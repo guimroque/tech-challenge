@@ -7,6 +7,7 @@ Nesse desafio você deverá desenvolver um aplicativo para listar informações 
 
 ### Instruções iniciais obrigatórias
 
+- Utilizar Typescript para a resolução do desafio.
 - Utilizar o seu github pessoal para publicar o desafio.
 - Utilize as seguintes tecnologias:
 

@@ -49,11 +49,12 @@ Obrigatório 1 - Você deverá atender aos seguintes casos de uso:
 
 <img src="./wireframe.png" width="100%" />
 
-**Diferencial 1** - Escrever Unit Tests e/ou E2E Test. Escolher a melhor abordagem e biblioteca;
+**Diferencial 1** - Colocar na URL os parâmetros utilizados na busca, para compartilhar a URL;
 
 **Diferencial 2** - Configurar Docker no Projeto para facilitar o Deploy da equipe de DevOps;
 
-**Diferencial 3** - Colocar na URL os parâmetros utilizados na busca, para compartilhar a URL;
+**Diferencial 3** - Escrever Unit Tests e/ou E2E Test. Escolher a melhor abordagem e biblioteca;
+
 
 ### Back-End:
 
